@@ -1,0 +1,10 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\Explorer.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\Explorer.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.About.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\PieChart.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.csprojResolveAssemblyReference.cache
